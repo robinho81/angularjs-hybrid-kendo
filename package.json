@@ -27,6 +27,7 @@
     "webpack": "^3.5.5",
     "webpack-dev-server": "^2.7.1",
     "zone.js": "^0.8.4",
+    "@progress/kendo-ui": "2017.3.913",
     "@progress/kendo-angular-dateinputs": "1.2.0",
     "@progress/kendo-angular-dropdowns": "1.2.0",
     "@progress/kendo-angular-excel-export": "1.0.4",
